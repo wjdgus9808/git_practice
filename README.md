@@ -17,4 +17,5 @@ $ python main.py
 ### Dependency
 
 - Python==3.10
-- django==3.0.0`
+- django==3.0.0
+###`
